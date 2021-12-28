@@ -5,3 +5,5 @@ click the main screen to jump.
 
 # Screenshot
 ![image](https://user-images.githubusercontent.com/14893385/147266818-9b144d05-d659-4cc5-bed9-5b68b7327390.png)
+
+thanks to @SmilerRyan for readme.md update pull request.
